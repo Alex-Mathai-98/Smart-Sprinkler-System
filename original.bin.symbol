@@ -1,0 +1,19 @@
+< THE SYMBOL TABLE >  original.bin  --  emu8086 assembler version: 4.08 
+===================================================================================================
+Name                     	Offset    	Size      	Type      	Segment   
+===================================================================================================
+ST1                      	009FD     	-1        	LABEL     	(NOSEG)   
+X2                       	00A46     	-1        	LABEL     	(NOSEG)   
+T_ISR2                   	00A48     	-1        	LABEL     	(NOSEG)   
+X1                       	00A57     	-1        	LABEL     	(NOSEG)   
+X5                       	00A7A     	-1        	LABEL     	(NOSEG)   
+T_ISR                    	00A87     	-1        	LABEL     	(NOSEG)   
+X7                       	00A8F     	-1        	LABEL     	(NOSEG)   
+X4                       	00AA0     	-1        	LABEL     	(NOSEG)   
+AD_ISR                   	00AA9     	-1        	LABEL     	(NOSEG)   
+X3                       	00AB9     	-1        	LABEL     	(NOSEG)   
+X6                       	00ABE     	-1        	LABEL     	(NOSEG)   
+===================================================================================================
+[ 25-04-2018  --  11:15:04 ] 
+< END >
+ 
